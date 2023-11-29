@@ -26,7 +26,7 @@ class Teacher extends Person {
 // example usage:
 const student1 = new Student("john", 20);
 student1.study(); // output : John is studying 
-const teacher1 = new Teacher("Professor ")
+const teacher1 = new Teacher("Professor Smith", 35)
 teacher1.teach(); // output: Professor sm
 // Do not change the code below this line
 window.Person = Person;
